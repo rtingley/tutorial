@@ -1,4 +1,6 @@
-gerry stinks
+gerry stinks but not as much as Tingles
+
+
 
 library(ProjectTemplate)
 
